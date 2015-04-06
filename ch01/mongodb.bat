@@ -1,1 +1,1 @@
-mongod -dbpath "D:\Program Files\MongoDB 2.6 Standard\blog"
+mongod -dbpath "D:\Program Files\MongoDB 2.6 Standard\blog" --port 27017
